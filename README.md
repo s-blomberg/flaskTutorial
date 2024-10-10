@@ -34,6 +34,6 @@ Stephen Blomberg
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [flask](https://flask.palletsprojects.com/en/3.0.x/tutorial/templates/)
+* [Flask](https://flask.palletsprojects.com/en/3.0.x/tutorial/templates/)
 * [ChatGPT](https://chatgpt.com/share/66f2f3f2-576c-8002-a1d0-db78dc44ef34)
 * [Jason Zeller](https://www.youtube.com/@profzeller)
